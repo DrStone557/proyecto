@@ -40,6 +40,7 @@ header a:hover {
 }
 
 .home{
+   
     background-image: url(./imagen/fondo.svg);
     background-repeat: no-repeat;
     width: 100vw;
